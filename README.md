@@ -1,4 +1,4 @@
-Repo to test issue with nuxt-link
+Repo to test issue with `nuxt-link`
 
 
 `npm i`
