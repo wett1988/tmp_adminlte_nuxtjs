@@ -1,4 +1,4 @@
-Repo to test [issue](https://github.com/nuxt/nuxt.js/issues/416)  with `nuxt-link`
+Repo to test [issue](https://github.com/nuxt/nuxt.js/issues/416)  with `nuxt-link` on static nuxtjs app
  
 `npm i`
 
