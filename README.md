@@ -1,7 +1,8 @@
-Repo to test <nuxt-link> bug.
+Repo to test issue with nuxt-link
 
 
 `npm i`
+
 `npm run generate`
 
 if you use Windows and has installed `php`
